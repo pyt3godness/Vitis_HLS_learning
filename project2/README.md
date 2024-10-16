@@ -15,6 +15,8 @@
 
     fir(I[i],Q[i],&mid_1,&mid_2);
 	cordiccart2pol(mid_1,mid_2,&R[i],&Theta[i]);
+---
+围绕精确度的设计，项目比较简单……
 
 
 
