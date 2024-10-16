@@ -49,7 +49,7 @@ void dft( DTYPE *real_sample, DTYPE *imag_sample,DTYPE* OUT_R,DTYPE* OUT_I){
 }
 
 ```
-效果并不好,有点强行,不太适合.
+效果并不好,改动大,不太适合任务级流水.可能有更优的分割方法.
 
 
 
